@@ -1,0 +1,7 @@
+# Ignore dataset and system files
+data/*.csv
+outputs/*.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
