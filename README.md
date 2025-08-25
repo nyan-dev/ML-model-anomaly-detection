@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ```
 Or open directly in Google Colab and upload the dataset.
 
-🚀 Usage
+## 🚀 Usage
 
 Download dataset from Kaggle: Healthcare Providers Data
 
@@ -47,7 +47,7 @@ Run the notebook step by step
 
 Results will be saved as Healthcare_AnomalyResults.csv
 
-📊 Results
+## 📊 Results
 
 Anomalies flagged: ~5% of records (~5,000 out of 100,000)
 
@@ -57,7 +57,7 @@ Bar chart: Normal vs Anomalous providers
 
 Scatter plot: Services vs Payment (highlighting anomalies)
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 Nyan Lynn Htet
 MSc Data Science
 
