@@ -34,3 +34,32 @@ Clone this repo and install dependencies:
 git clone https://github.com/<your-username>/healthcare-anomaly-detection.git
 cd healthcare-anomaly-detection
 pip install -r requirements.txt
+```
+Or open directly in Google Colab and upload the dataset.
+
+🚀 Usage
+
+Download dataset from Kaggle: Healthcare Providers Data
+
+Place the CSV into /data/ or upload in Colab
+
+Run the notebook step by step
+
+Results will be saved as Healthcare_AnomalyResults.csv
+
+📊 Results
+
+Anomalies flagged: ~5% of records (~5,000 out of 100,000)
+
+Visualization:
+
+Bar chart: Normal vs Anomalous providers
+
+Scatter plot: Services vs Payment (highlighting anomalies)
+
+🧑‍💻 Author
+Nyan Lynn Htet
+MSc Data Science
+
+Ai Involved in this project
+Chat GPT Free Version
